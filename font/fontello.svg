@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="phone" unicode="&#xe800;" d="M461 290q162 162 118 206l-8 8q-30 30-41 48t-4 54 49 88q20 24 37 39t35 16 30 1 29-13 24-18 26-25 21-22q48-48-6-194t-204-294q-150-150-295-205t-193-7q-2 2-23 22t-25 25-18 24-13 31 2 30 15 35 38 37q42 34 70 47t54 2 35-18 39-37q44-44 208 120z" horiz-adv-x="800" />
+
+<glyph glyph-name="home-outline" unicode="&#xe801;" d="M1108 422q38-30 38-80 0-42-30-73t-75-31l-51 0 0-312q0-44-31-75t-74-30l-625 0q-42 0-73 30t-31 75l0 312-52 0q-44 0-74 31t-30 73q0 46 36 79 79 66 204 174t211 181 88 75l34 29 35-29q1-1 86-75t211-181 203-173z m-430-496l0 260-209 0 0-260 209 0z m207 416l156 0q-231 194-468 400-238-206-469-400l156 0 0-416 156 0 0 312 313 0 0-312 156 0 0 416z" horiz-adv-x="1146" />
+
+<glyph glyph-name="user" unicode="&#xe802;" d="M736 128q204-72 204-122l0-106-940 0 0 106q0 50 204 122 94 34 128 69t34 95q0 22-22 49t-32 73q-2 12-9 18t-14 8-14 17-9 43q0 16 5 26t9 12l4 4q-8 50-12 88-4 54 41 112t157 58 158-58 40-112l-12-88q18-8 18-42-2-28-9-43t-14-17-14-8-9-18q-8-48-31-74t-23-48q0-60 35-95t127-69z" horiz-adv-x="940" />
+
+<glyph glyph-name="gamepad" unicode="&#xf11b;" d="M464 243v71q0 8-5 13t-13 5h-107v107q0 8-5 13t-13 5h-71q-8 0-13-5t-5-13v-107h-107q-8 0-13-5t-5-13v-71q0-8 5-13t13-5h107v-107q0-8 5-13t13-5h71q8 0 13 5t5 13v107h107q8 0 13 5t5 13z m322-36q0 30-21 51t-51 21-50-21-21-51 21-50 50-21 51 21 21 50z m143 143q0 30-21 51t-51 20-50-20-21-51 21-50 50-21 51 21 21 50z m142-71q0-119-83-202t-202-84q-107 0-189 71h-123q-81-71-188-71-119 0-202 84t-84 202 84 202 202 83h500q118 0 202-83t83-202z" horiz-adv-x="1071.4" />
+</font>
+</defs>
+</svg>

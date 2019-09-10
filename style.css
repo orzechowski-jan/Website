@@ -1,0 +1,144 @@
+body {
+    background-color: #303030;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    padding: 40px 0;
+}
+
+.logo {
+    width: 450px;
+    font-size: 48px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nav {
+    width: 1000px;
+    padding: 10px 0;
+    background-color: #3e3160;
+    text-align: center;
+    border: 1px solid #000000;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content {
+    width: 1000px;
+    height: 495px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    padding-top: 10px;
+}
+
+.socials {
+    width: 1000px;
+    height: 155px;
+    padding: 10px 0;
+    text-align: center;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.socialdivs {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sg {
+    width: 250px;
+    height: 155px;
+    float: left;
+}
+
+.sg:hover {
+    background-color: #4668b3;
+}
+
+.ap {
+    width: 250px;
+    height: 155px;
+    float: left;
+}
+
+.ap:hover {
+    background-color: red;
+}
+
+.om {
+    width: 250px;
+    height: 155px;
+    float: left;
+}
+
+.om:hover {
+    cursor: pointer;
+    background-color: green;
+}
+
+.kt {
+    width: 250px;
+    height: 155px;
+    float: left;
+}
+
+.kt:hover {
+    background-color: #7c7c7c;
+}
+
+.footer {
+    text-align: center;
+    background-color: #222222;
+    padding: 30px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+ol {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    font-size: 18px;
+    height: 35px;
+    line-height: 200%;
+    display: inline-block;
+}
+
+ol a {
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+}
+
+ol > li {
+    float: left;
+    width: 248px;
+    height: 35px;
+    border-right: 1px solid black;
+}
+
+ol > li:first-child {
+    border-right: 1px solid black;
+}
+
+ol > li:last-child {
+    border-right: none;
+}
+
+ol > li:hover {
+    background-color: #534774;
+}
